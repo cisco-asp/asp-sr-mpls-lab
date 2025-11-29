@@ -1236,7 +1236,7 @@ Tue Jan 14 08:08:45.633 EST
 ```
 
 
-## Appendix - Changing for forwarding mode using ./config_lab
+## Appendix - Changing the forwarding mode using ./config_lab
 
 __Configure the lab for LDP and SR to co\-exist:__
 
