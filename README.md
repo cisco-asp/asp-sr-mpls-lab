@@ -4,6 +4,16 @@ This lab is meant for use with the ASP Containerlab enviornment in Cisco's dclou
 
 ![Topology](docs/images/topology.png)
 
+## Lab Objectives
+
+  * Understanding basic Segment Routing configuration
+  * How to verify and troubleshoot the control plane
+  * How to verify and troubleshoot the data plane
+  * Become familiar with SR OAM as a tool for troubleshooting
+  * Overview of Topology Independent Loop Free Alternate \(TI\-LFA\)
+  * How to verify primary and backup paths of TI\-LFA
+  * How to migrate to SR\-MPLS from LDP
+
 ## Features 
 Features in this playbook:
  - Segment Routing using ISIS
