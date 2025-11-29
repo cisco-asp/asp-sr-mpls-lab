@@ -28,7 +28,10 @@ WARNING - this is a full commit replace and will restore the Converged SDN Trans
 ./config_lab
 ```
 
-# Start T-REX 
+## Lab Guide
+The lab guide can be found under the docs folder here [LINK](docs/Intro_to_SR_MPLS.md)
+
+## Start T-REX 
 Once the lab configuration has been committed (config_lab), open a terminal and ssh to each of the trex nodes (trex-1 and trex-2)
 
 Start the interactive trex console which will make a local connection to the running interactive daemon
@@ -52,7 +55,7 @@ Attempt to increase per interface traffic rate to 100mbps (200mbps rx/tx total).
 update -m 100mbps
 ```
 
-# Run playbooks directly
+## Run playbooks directly
 
 To run the playbook without committing changes:
 
