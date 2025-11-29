@@ -1,6 +1,6 @@
 
 # Introduction to SR-MPLS Lab
-This lab is meant for use with the ASP Containerlab enviornment in Cisco's dcloud.  Please refer to the following (https://github.com/mfierbaugh/asp-containerlab)
+This lab is meant for use with the ASP Containerlab enviornment in Cisco's dcloud.  Please refer to the following [getting started guide](docs/01-getting-started.md)
 
 ## Lab Objectives
 
