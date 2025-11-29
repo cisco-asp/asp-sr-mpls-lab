@@ -2,8 +2,6 @@
 # Introduction to SR-MPLS Lab
 This lab is meant for use with the ASP Containerlab enviornment in Cisco's dcloud.  Please refer to the following (https://github.com/mfierbaugh/asp-containerlab)
 
-![Topology](docs/images/topology.png)
-
 ## Lab Objectives
 
   * Understanding basic Segment Routing configuration
@@ -28,6 +26,9 @@ Features in this playbook:
 - Cisco T-Rex ver 3.06 (Trex-1, Trex-2)
 
 Configurations are working examples of Cisco Converged SDN Transport (https://xrdocs.io/design/blogs/latest-converged-sdn-transport-ig)
+
+## Lab Topology
+![Topology](docs/images/topology.png)
 
 ## Usage
 This project is a full CI/CD pipline for configuration management. All configuration changes should be made by logging an issue then merging the changes to the Development branch then Test branch.
