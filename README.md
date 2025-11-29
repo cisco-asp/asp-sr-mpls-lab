@@ -61,3 +61,4 @@ To run the playbook without committing changes:
 To run the playbook committing the changes:
 
     ansible-playbook -i hosts.yml lab_master_playbook.yml -e "commit_changes=1"
+
